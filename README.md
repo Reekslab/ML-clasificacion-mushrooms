@@ -1,4 +1,4 @@
-# ML-clasificacion-mushrooms
+# ML-clasification-mushrooms
 
 Este código realiza una serie de pasos comunes en la construcción y evaluación de un modelo de clasificación utilizando un conjunto de datos de hongos (mushrooms).
 
